@@ -1,0 +1,17 @@
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/controller/BeerController.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/services/v2/BeerServiceV2Impl.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/web/model/v2/BeerDtoV2.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/services/CustomerService.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/web.model/CustomerDto.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/domain/Beer.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/web/mappers/BeerMappers.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/controller/CustomerController.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/controller/MvcExceptionHandler.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/web/model/v2/BeerStyleEnum.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/CourseApplication.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/services/BeerServiceImpl.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/web.model/BeerDto.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/controller/v2/BeerControllerV2.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/services/BeerService.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/services/CustomerServiceImpl.java
+/home/users/bpietrowiak/Spring_microservices/Brewery_SpringCourse/src/main/java/com/brewery/exercise/course/services/v2/BeerServiceV2.java
